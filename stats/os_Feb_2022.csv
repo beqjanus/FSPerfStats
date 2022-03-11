@@ -1,0 +1,109 @@
+VAL,CNT
+"""Microsoft Windows 10 64-bit""",7151594
+"""Mac OS X 10.16.0""",321798
+"""Microsoft Windows 7 SP1 64-bit""",279661
+"""Microsoft Windows 8 64-bit""",191874
+"""Microsoft Windows 8.1 64-bit""",123961
+"""Mac OS X 10.15.7""",56600
+"""Linux 5.4""",34986
+"""Mac OS X 10.13.6""",34372
+"""Linux 5.13""",26515
+"""Mac OS X 10.14.6""",24965
+"""Microsoft Windows 7 SP1 32-bit""",11448
+"""Linux 5.15""",11412
+"""Linux 5.16""",10424
+"""Mac OS X 10.12.6""",8294
+"""Mac OS X 10.11.6""",7689
+"""Linux 5.10""",6916
+"""Microsoft Windows 8 32-bit""",5187
+"""Linux 4.15""",5153
+"""Mac OS X 10.15.6""",3268
+"""Linux 5.11""",3096
+"""Microsoft Windows 11 64-bit""",2758
+"""Microsoft Windows 8 64-bit """,2359
+"""Linux 5.14""",2221
+"""Linux 4.19""",1782
+"""Mac OS X 10.15.4""",1713
+"""Linux 5.3""",1555
+"""Mac OS X 10.15.5""",1504
+"""Linux 4.4""",984
+"""Mac OS X 10.15.2""",879
+"""Windows Server 64-bit""",857
+"""Microsoft Windows 8.1 32-bit""",823
+"""Mac OS X 10.15.3""",815
+"""Mac OS X 10.15.1""",784
+"""Mac OS X 10.14.5""",679
+"""Microsoft Windows 7 64-bit""",665
+"""Microsoft Windows Vista SP2 32-bit""",663
+"""Microsoft Windows Vista SP2 64-bit""",624
+"""Mac OS X 10.14.1""",561
+"""Linux 5.8""",522
+"""Mac OS X 10.13.3""",519
+"""Linux 5.12""",472
+"""Microsoft Windows 7 64-bit """,387
+"""Mac OS X 10.14.2""",369
+"""Mac OS X 10.14.4""",362
+"""Linux 4.12""",361
+"""Linux 4.9""",345
+"""Mac OS X 10.14.3""",272
+"""Mac OS X 10.14.0""",267
+"""Mac OS X 10.13.4""",261
+"""Mac OS X 10.13.5""",256
+"""Linux 5.0""",198
+"""Mac OS X 10.15.0""",193
+"""Linux 5.17""",189
+"""Linux 4.18""",170
+"""Linux 4.14""",168
+"""Linux 4.13""",148
+"""Microsoft Windows 7 32-bit""",112
+"""Mac OS X 10.12.5""",101
+"""Mac OS X 10.12.3""",94
+"""Linux 4.10""",90
+"""Microsoft Windows 8.1 64-bit """,89
+"""Mac OS X 10.11.0""",85
+"""Mac OS X 12.1.0""",84
+"""Linux 5.5""",76
+"""Mac OS X 10.13.1""",64
+"""Mac OS X 10.11.1""",61
+"""Windows Server 2012 R2 64-bit""",57
+"""Mac OS X 10.13.0""",56
+"""Linux 5.9""",52
+"""Mac OS X 10.11.5""",51
+"""Mac OS X 10.11.4""",48
+"""Windows Server 2008 R2 SP1 64-bit""",48
+"""Linux 3.10""",46
+"""Mac OS X 11.1.0""",41
+"""Mac OS X 12.2.1""",39
+"""Mac OS X 10.13.2""",34
+"""Mac OS X 10.12.4""",31
+"""Microsoft Windows XP """,31
+"""Linux 4.20""",28
+"""Linux 5.7""",27
+"""Microsoft Windows (unrecognized) Professional """,27
+"""Linux 4.16""",26
+"""Mac OS X 10.11.3""",25
+"""Linux 4.8""",25
+"""Mac OS X 12.0.1""",22
+"""Linux 5.6""",18
+"""Mac OS X 12.2.0""",18
+"""Microsoft Windows 7 32-bit """,17
+"""Mac OS X 10.12.1""",17
+"""Mac OS X 11.6.0""",16
+"""Mac OS X 11.4.0""",10
+"""Mac OS X 10.12.0""",9
+"""Linux 4.17""",8
+"""Linux 5.2""",7
+"""Mac OS X 11.6.4""",6
+"""Microsoft Windows Vista 64-bit """,5
+"""Mac OS X 11.5.2""",5
+"""Mac OS X 11.6.3""",4
+"""Windows Server 2016 64-bit""",3
+"""Mac OS X 10.9.5""",2
+"""Mac OS X 12.3.0""",2
+"""Microsoft Windows 8 32-bit """,1
+"""Mac OS X 10.12.2""",1
+"""Linux 5.1""",1
+"""Mac OS X 11.2.3""",1
+"""Linux 3.8""",1
+"""Mac OS X 11.6.1""",1
+"""Mac OS X 11.6.2""",1
