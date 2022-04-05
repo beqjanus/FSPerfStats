@@ -1,5 +1,5 @@
 jupyter contrib nbextension install --user
-jupyter nbextension enable --py hide_input
-jupyter nbextension enable --py hide_input_all
-jupyter nbextension enable --py toc2
-jupyter nbextension enable --py printview
+jupyter nbextension enable hide_input
+jupyter nbextension enable hide_input_all
+jupyter nbextension enable toc2
+jupyter nbextension enable printview
