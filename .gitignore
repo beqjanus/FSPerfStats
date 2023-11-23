@@ -1,1 +1,5 @@
 LL GPU CPU stats.code-workspace
+
+.ipynb_checkpoints/
+
+.vscode/
